@@ -2,7 +2,7 @@
 
 Integrantes:
  
-Felipe meguime Nakama - RM: 552821
+Felipe Megumi Nakama - RM: 552821
 
 Eduardo Mazelli - RM: 553236
 
